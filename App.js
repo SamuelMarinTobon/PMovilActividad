@@ -21,17 +21,17 @@ const styles = StyleSheet.create({
   },
   containerA: {
     flex: 1,
-    backgroundColor: 'coral',
+    backgroundColor: 'blue',
     margin: 12,
   },
   containerB: {
     flex: 3,
-    backgroundColor: 'coral',
+    backgroundColor: 'blue',
     margin: 12,
   },
   containerC: {
     flex: 1,
-    backgroundColor: 'coral',
+    backgroundColor: 'blue',
     margin: 12,
   },
 });
